@@ -1,0 +1,2 @@
+add links to navbar
+instead of know me ? it should be hire
