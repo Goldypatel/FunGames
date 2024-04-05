@@ -1,3 +1,9 @@
+#about this project
+it contains minor projects that i made while learning web development frontend 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
