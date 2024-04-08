@@ -1,6 +1,10 @@
 #about this project
 it contains minor projects that i made while learning web development frontend 
 
+#Self lerned developers
+This project so far contains three games dice , simon and drumset. All these three require different skill that you can learn from here.
+feel free to form them and learn from them
+
 
 
 
